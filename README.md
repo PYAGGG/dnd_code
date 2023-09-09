@@ -1,2 +1,2 @@
-# dnd_code
+# dnd-kit-multicontainer-example
 Created with CodeSandbox
